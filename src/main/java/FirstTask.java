@@ -6,7 +6,7 @@ public class FirstTask {
         System.out.println("Введите любое число");
         int n = input.nextInt();
         if (n > 7){
-            System.out.println("Привет");
+            System.out.println("Приветик");
         }
     }
 }
